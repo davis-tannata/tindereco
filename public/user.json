@@ -1,0 +1,8 @@
+{
+    "id" : 1,
+    "name": "Davis Tannata",
+    "gender": "Male",
+    "location": "Seattle, WA",
+    "university": "Massachusetts Institute of Technology",
+    "interests": ["hiking", "technology", "startup ecosystems"]
+}

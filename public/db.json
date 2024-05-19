@@ -1,0 +1,480 @@
+[
+    {
+      "name": "Alice Johnson",
+      "gender": "Female",
+      "location": "San Francisco, CA",
+      "university": "University of California, Berkeley",
+      "interests": ["reading", "hiking", "cooking", "coding", "traveling", "gardening", "photography"]
+    },
+    {
+      "name": "Bob Smith",
+      "gender": "Male",
+      "location": "New York, NY",
+      "university": "Columbia University",
+      "interests": ["writing", "running", "gaming", "cooking"]
+    },
+    {
+      "name": "Carol Taylor",
+      "gender": "Female",
+      "location": "Chicago, IL",
+      "university": "University of Chicago",
+      "interests": ["cycling", "yoga", "reading"]
+    },
+    {
+      "name": "David Lee",
+      "gender": "Male",
+      "location": "Austin, TX",
+      "university": "University of Texas at Austin",
+      "interests": ["filmmaking", "photography", "design"]
+    },
+    {
+      "name": "Eva Clarke",
+      "gender": "Female",
+      "location": "Seattle, WA",
+      "university": "University of Washington",
+      "interests": ["drawing", "singing", "writing", "baking"]
+    },
+    {
+      "name": "Frank Wright",
+      "gender": "Male",
+      "location": "Boston, MA",
+      "university": "Massachusetts Institute of Technology",
+      "interests": ["robotics", "AI", "chess", "science"]
+    },
+    {
+      "name": "Grace Hall",
+      "gender": "Female",
+      "location": "San Diego, CA",
+      "university": "University of California, San Diego",
+      "interests": ["surfing", "beach volleyball", "hiking"]
+    },
+    {
+      "name": "Henry Adams",
+      "gender": "Male",
+      "location": "Miami, FL",
+      "university": "University of Miami",
+      "interests": ["fishing", "boating", "swimming"]
+    },
+    {
+      "name": "Isabel Martinez",
+      "gender": "Female",
+      "location": "Philadelphia, PA",
+      "university": "University of Pennsylvania",
+      "interests": ["philosophy", "poetry", "literature", "traveling"]
+    },
+    {
+      "name": "Jack Thompson",
+      "gender": "Male",
+      "location": "Denver, CO",
+      "university": "University of Colorado",
+      "interests": ["skiing", "mountaineering", "photography", "painting"]
+    },
+    {
+      "name": "Katie White",
+      "gender": "Female",
+      "location": "Las Vegas, NV",
+      "university": "University of Nevada, Las Vegas",
+      "interests": ["gambling", "nightlife", "dancing", "cooking"]
+    },
+    {
+      "name": "Liam Johnson",
+      "gender": "Male",
+      "location": "Atlanta, GA",
+      "university": "Georgia Institute of Technology",
+      "interests": ["technology", "programming", "e-sports"]
+    },
+    {
+      "name": "Mia Roberts",
+      "gender": "Female",
+      "location": "Portland, OR",
+      "university": "Portland State University",
+      "interests": ["sustainable living", "crafts", "biking"]
+    },
+    {
+      "name": "Noah Evans",
+      "gender": "Male",
+      "location": "Dallas, TX",
+      "university": "Southern Methodist University",
+      "interests": ["football", "barbecue", "history"]
+    },
+    {
+      "name": "Olivia Brown",
+      "gender": "Female",
+      "location": "Los Angeles, CA",
+      "university": "University of California, Los Angeles",
+      "interests": ["acting", "modeling", "fashion"]
+    },
+    {
+      "name": "Patrick Green",
+      "gender": "Male",
+      "location": "Columbus, OH",
+      "university": "Ohio State University",
+      "interests": ["political science", "debate", "reading"]
+    },
+    {
+        "name": "Rachel Peterson",
+        "gender": "Female",
+        "location": "Phoenix, AZ",
+        "university": "Arizona State University",
+        "interests": ["astronomy", "hiking", "science fiction"]
+      },
+      {
+        "name": "Samuel Lee",
+        "gender": "Male",
+        "location": "Minneapolis, MN",
+        "university": "University of Minnesota",
+        "interests": ["ice hockey", "coding", "reading", "video games"]
+      },
+      {
+        "name": "Tina Morris",
+        "gender": "Female",
+        "location": "Orlando, FL",
+        "university": "University of Central Florida",
+        "interests": ["traveling", "photography", "swimming", "diving"]
+      },
+      {
+        "name": "Umar Khan",
+        "gender": "Male",
+        "location": "San Diego, CA",
+        "university": "University of California, San Diego",
+        "interests": ["surfing", "robotics", "AI"]
+      },
+      {
+        "name": "Vanessa Garcia",
+        "gender": "Female",
+        "location": "San Antonio, TX",
+        "university": "University of Texas at San Antonio",
+        "interests": ["music", "guitar", "singing"]
+      },
+      {
+        "name": "William Brown",
+        "gender": "Male",
+        "location": "Baltimore, MD",
+        "university": "Johns Hopkins University",
+        "interests": ["medicine", "volunteering", "reading"]
+      },
+      {
+        "name": "Xavier Johnson",
+        "gender": "Male",
+        "location": "San Francisco, CA",
+        "university": "University of California, Berkeley",
+        "interests": ["entrepreneurship", "hiking", "technology", "startups"]
+      },
+      {
+        "name": "Yasmin Smith",
+        "gender": "Female",
+        "location": "New Haven, CT",
+        "university": "Yale University",
+        "interests": ["law", "debate", "writing"]
+      },
+      {
+        "name": "Zachary Taylor",
+        "gender": "Male",
+        "location": "Cambridge, MA",
+        "university": "Massachusetts Institute of Technology",
+        "interests": ["robotics", "AI", "puzzle solving", "chess"]
+      },
+      {
+        "name": "Amy Wong",
+        "gender": "Female",
+        "location": "Cambridge, MA",
+        "university": "Massachusetts Institute of Technology",
+        "interests": ["physics", "mathematics", "astronomy"]
+      },
+      {
+        "name": "Brian O'Connor",
+        "gender": "Male",
+        "location": "Charlotte, NC",
+        "university": "University of North Carolina at Charlotte",
+        "interests": ["basketball", "cooking", "technology", "movies"]
+      },
+      {
+        "name": "Cindy Marsh",
+        "gender": "Female",
+        "location": "Madison, WI",
+        "university": "University of Wisconsin-Madison",
+        "interests": ["biking", "photography", "poetry", "environmentalism"]
+      },
+      {
+        "name": "Derek Black",
+        "gender": "Male",
+        "location": "Salt Lake City, UT",
+        "university": "University of Utah",
+        "interests": ["skiing", "mountain biking", "geology"]
+      },
+      {
+        "name": "Elena Rodriguez",
+        "gender": "Female",
+        "location": "Tampa, FL",
+        "university": "University of South Florida",
+        "interests": ["sailing", "marine biology", "conservation"]
+      },
+      {
+        "name": "Faisal Ahmad",
+        "gender": "Male",
+        "location": "Ann Arbor, MI",
+        "university": "University of Michigan",
+        "interests": ["football", "coding", "startups", "travel"]
+      },
+      {
+        "name": "Gloria Chen",
+        "gender": "Female",
+        "location": "Irvine, CA",
+        "university": "University of California, Irvine",
+        "interests": ["table tennis", "biology", "volunteering", "painting"]
+      },
+      {
+        "name": "Harold Kim",
+        "gender": "Male",
+        "location": "Raleigh, NC",
+        "university": "North Carolina State University",
+        "interests": ["gardening", "beekeeping", "cooking"]
+      },
+      {
+        "name": "Isabella Fitzgerald",
+        "gender": "Female",
+        "location": "Pittsburgh, PA",
+        "university": "Carnegie Mellon University",
+        "interests": ["robotics", "AI", "literature", "hiking"]
+      },
+      {
+        "name": "Jason McConnell",
+        "gender": "Male",
+        "location": "Nashville, TN",
+        "university": "Vanderbilt University",
+        "interests": ["music production", "guitar", "songwriting"]
+      },
+      {
+        "name": "Kathy Tran",
+        "gender": "Female",
+        "location": "Columbus, OH",
+        "university": "Ohio State University",
+        "interests": ["public health", "running", "cooking", "reading"]
+      },
+      {
+        "name": "Leon Nguyen",
+        "gender": "Male",
+        "location": "Seattle, WA",
+        "university": "University of Washington",
+        "interests": ["video games", "anime", "programming", "cycling"]
+      },
+      {
+        "name": "Maggie Holmes",
+        "gender": "Female",
+        "location": "Boulder, CO",
+        "university": "University of Colorado Boulder",
+        "interests": ["rock climbing", "skiing", "yoga", "photography"]
+      },
+      {
+        "name": "Nathan Ortiz",
+        "gender": "Male",
+        "location": "Tempe, AZ",
+        "university": "Arizona State University",
+        "interests": ["volunteering", "travel", "reading", "basketball"]
+      },
+      {
+        "name": "Olivia Chang",
+        "gender": "Female",
+        "location": "Palo Alto, CA",
+        "university": "Stanford University",
+        "interests": ["entrepreneurship", "hiking", "tech startups", "cooking"]
+      },
+      {
+        "name": "Peter Griffin",
+        "gender": "Male",
+        "location": "Providence, RI",
+        "university": "Brown University",
+        "interests": ["history", "philosophy", "debate"]
+      },
+      {
+        "name": "Quincy Adams",
+        "gender": "Male",
+        "location": "Newark, NJ",
+        "university": "Rutgers University",
+        "interests": ["political science", "jazz music", "poetry"]
+      },
+      {
+        "name": "Rita Vasquez",
+        "gender": "Female",
+        "location": "Athens, GA",
+        "university": "University of Georgia",
+        "interests": ["gardening", "bird watching", "painting", "cooking"]
+      },
+      {
+        "name": "Steven Martinez",
+        "gender": "Male",
+        "location": "San Diego, CA",
+        "university": "University of California, San Diego",
+        "interests": ["surfing", "marine biology", "environmental activism"]
+      },
+      {
+        "name": "Tiffany Huang",
+        "gender": "Female",
+        "location": "Champaign, IL",
+        "university": "University of Illinois at Urbana-Champaign",
+        "interests": ["robotics", "coding", "AI", "video games"]
+      },
+      {
+        "name": "Ursula Lee",
+        "gender": "Female",
+        "location": "Orlando, FL",
+        "university": "University of Central Florida",
+        "interests": ["space exploration", "science fiction", "astronomy", "video games"]
+      },
+      {
+        "name": "Victor Allen",
+        "gender": "Male",
+        "location": "Chicago, IL",
+        "university": "University of Chicago",
+        "interests": ["economics", "chess", "blogging", "travel"]
+      },
+      {
+        "name": "Wendy Morris",
+        "gender": "Female",
+        "location": "New Orleans, LA",
+        "university": "Tulane University",
+        "interests": ["jazz music", "cultural studies", "cooking", "photography"]
+      },
+      {
+        "name": "Xenia Ivanov",
+        "gender": "Female",
+        "location": "Ithaca, NY",
+        "university": "Cornell University",
+        "interests": ["botany", "environmental activism", "hiking"]
+      },
+      {
+        "name": "Youssef El Amir",
+        "gender": "Male",
+        "location": "Berkeley, CA",
+        "university": "University of California, Berkeley",
+        "interests": ["political activism", "reading", "writing"]
+      },
+      {
+        "name": "Zoe Fisher",
+        "gender": "Female",
+        "location": "Cambridge, MA",
+        "university": "Harvard University",
+        "interests": ["psychology", "neuroscience", "yoga", "meditation"]
+      },
+      {
+        "name": "Alan Torres",
+        "gender": "Male",
+        "location": "Miami, FL",
+        "university": "University of Miami",
+        "interests": ["scuba diving", "marine conservation", "photography", "travel"]
+      },
+      {
+        "name": "Beatrice Young",
+        "gender": "Female",
+        "location": "Ann Arbor, MI",
+        "university": "University of Michigan",
+        "interests": ["classical music", "violin", "literature", "ballet"]
+      },
+      {
+        "name": "Carlos Gomez",
+        "gender": "Male",
+        "location": "Austin, TX",
+        "university": "University of Texas at Austin",
+        "interests": ["music production", "guitar", "startups"]
+      },
+      {
+        "name": "Diana Ruiz",
+        "gender": "Female",
+        "location": "Los Angeles, CA",
+        "university": "University of Southern California",
+        "interests": ["cinematography", "screenwriting", "acting"]
+      },
+      {
+        "name": "Ethan Wright",
+        "gender": "Male",
+        "location": "Seattle, WA",
+        "university": "University of Washington",
+        "interests": ["hiking", "technology", "startup ecosystems"]
+      },
+      {
+        "name": "Elena Simmons",
+        "gender": "Female",
+        "location": "Boston, MA",
+        "university": "Massachusetts Institute of Technology",
+        "interests": ["technology", "robotics", "AI"]
+      },
+      {
+        "name": "Michael Chen",
+        "gender": "Male",
+        "location": "Cambridge, MA",
+        "university": "Massachusetts Institute of Technology",
+        "interests": ["startup ecosystems", "venture capital", "technology"]
+      },
+      {
+        "name": "Sarah Johnson",
+        "gender": "Female",
+        "location": "San Francisco, CA",
+        "university": "University of California, Berkeley",
+        "interests": ["hiking", "environmental activism", "technology"]
+      },
+      {
+        "name": "James Lee",
+        "gender": "Male",
+        "location": "Palo Alto, CA",
+        "university": "Stanford University",
+        "interests": ["AI", "startup ecosystems", "machine learning"]
+      },
+      {
+        "name": "Laura Kim",
+        "gender": "Female",
+        "location": "Seattle, WA",
+        "university": "University of Washington",
+        "interests": ["hiking", "photography", "technology"]
+      },
+      {
+        "name": "Kevin Martinez",
+        "gender": "Male",
+        "location": "New York, NY",
+        "university": "Columbia University",
+        "interests": ["technology", "finance", "startup ecosystems"]
+      },
+      {
+        "name": "Isabella Rodriguez",
+        "gender": "Female",
+        "location": "Boston, MA",
+        "university": "Massachusetts Institute of Technology",
+        "interests": ["quantum computing", "hiking", "AI"]
+      },
+      {
+        "name": "Henry Adams",
+        "gender": "Male",
+        "location": "San Diego, CA",
+        "university": "University of California, San Diego",
+        "interests": ["surfing", "marine biology", "technology"]
+      },
+      {
+        "name": "Zoe Thompson",
+        "gender": "Female",
+        "location": "Seattle, WA",
+        "university": "University of Washington",
+        "interests": ["startup ecosystems", "social entrepreneurship", "hiking"]
+      },
+      {
+        "name": "Tommy Walker",
+        "gender": "Male",
+        "location": "Seattle, WA",
+        "university": "University of Washington",
+        "interests": ["hiking", "technology", "data science"]
+      },
+      {
+        "name": "Natalie Portman",
+        "gender": "Female",
+        "location": "Cambridge, MA",
+        "university": "Massachusetts Institute of Technology",
+        "interests": ["hiking", "technology", "AI", "neural networks", "robotics"]
+      },
+      {
+        "name": "Chris Evans",
+        "gender": "Male",
+        "location": "Cambridge, MA",
+        "university": "Massachusetts Institute of Technology",
+        "interests": ["startup ecosystems", "technology", "hiking", "venture capital", "machine learning"]
+      }
+      
+]
+  
