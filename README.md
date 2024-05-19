@@ -36,8 +36,8 @@ UML Diagrams is located on the diagrams folder
 1. Class Diagram
 ![Alt text](./diagrams/tindereco-classdiagram.jpg?raw=true "Class Diagram")
 
-2. calculateWeights function flow chart diagram
+2. ProfileRecommendationService's calculateProfileWeights function flow chart diagram
 ![Alt text](./diagrams/tindereco-flowchart-calculateWeights.jpg?raw=true "calculateWeights function flow chart diagram")
 
-3. fetchRecommendations sequence diagram
+3. useRecommendationStore's fetchRecommendations sequence diagram
 ![Alt text](./diagrams/tindereco-sequence.jpg?raw=true "fetchRecommendations sequence diagram")
